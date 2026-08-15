@@ -1,11 +1,18 @@
-# Yaduwanshi Water Software – Version 8
+# Yaduwanshi Child Water — Version 8 Updated
 
-GitHub Pages ready static website.
+GitHub-ready single-page web app for Yaduwanshi Child Water.
 
-## Deploy
-1. Upload all files to the repository root.
-2. Make sure the main file is named `index.html`.
-3. In GitHub: Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
-4. Save and open the generated GitHub Pages URL.
+## Updated features
+- Customer click -> full daily statement, month-wise statement, payment history and outstanding
+- Customer search by name/mobile/area/route
+- Area / Route wise customer management
+- Driver assignment and access-ready driver records
+- Daily delivery WhatsApp update
+- Professional monthly bill
+- Admin-only WhatsApp / Print / PDF actions outside the customer-facing bill
+- Automatic Jar × Rate and outstanding calculations
+- Mobile-friendly UI
+- Local browser storage
 
-Version 8 is intentionally the root `index.html` so GitHub Pages does not open the older Version 3 file.
+## GitHub Pages
+Upload `index.html`, `README.md` and `.nojekyll` to the repository root, then enable GitHub Pages from Settings -> Pages -> Deploy from branch -> main -> root.
