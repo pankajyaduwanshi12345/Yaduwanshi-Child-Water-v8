@@ -1,18 +1,18 @@
-# Yaduwanshi Child Water — Version 8 Updated
+# Yaduwanshi Child Water — Version 9
 
-GitHub-ready single-page web app for Yaduwanshi Child Water.
+GitHub Pages ready single-file mobile PWA-style water management app.
 
-## Updated features
-- Customer click -> full daily statement, month-wise statement, payment history and outstanding
-- Customer search by name/mobile/area/route
-- Area / Route wise customer management
-- Driver assignment and access-ready driver records
-- Daily delivery WhatsApp update
-- Professional monthly bill
-- Admin-only WhatsApp / Print / PDF actions outside the customer-facing bill
-- Automatic Jar × Rate and outstanding calculations
-- Mobile-friendly UI
-- Local browser storage
+## Features
+- Customer management with search, area and route
+- Daily delivery and jar balance
+- Automatic billing and outstanding amount
+- Payments and payment modes
+- Driver management and today's driver delivery view
+- Monthly bill, print/PDF via browser
+- Reports and event orders
+- WhatsApp customer shortcut
+- Customer view
+- Version 8 data migration: existing `yw_v8` localStorage data is imported into Version 9 on first launch
 
 ## GitHub Pages
-Upload `index.html`, `README.md` and `.nojekyll` to the repository root, then enable GitHub Pages from Settings -> Pages -> Deploy from branch -> main -> root.
+Upload `index.html`, `README.md`, and `.nojekyll` to the root of the `main` branch, then enable GitHub Pages from Settings → Pages → Deploy from branch → `main` → `/ (root)`.
