@@ -24,4 +24,4 @@ GitHub-ready mobile-first PWA for RO water business management.
 4. Open the generated Pages URL on Android Chrome.
 5. Use **Add to Home screen / Install app**.
 
-No backend is required for this demo build. Data is stored in the browser's localStorage; use Backup / Restore before changing devices or clearing browser data.
+This build includes Daily Entry +/- jar controls and Cash/Pending payment handling. Data is currently stored in browser localStorage; use Backup / Restore before changing devices or clearing browser data. Cloud sync/login is not included yet.
